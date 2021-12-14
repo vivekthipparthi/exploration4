@@ -9,22 +9,22 @@ Link to the Application : [vivekvardhanreddy.me](https://www.vivekvardhanreddy.m
 ## Contact Manager
 <p>Here we could see the application Contact Manager with two input fields for name and email and a button to add them</p>
 
-![Home_Page](../screenshots/Home.PNG)
+![Home_Page](../Screenshots/Home.PNG)
 &nbsp;
 <p>Entering the Inputs</p>
 
-![Dataentry](../screenshots/Dataentry.PNG)
+![Dataentry](../Screenshots/Dataentry.PNG)
 &nbsp;
 <p>Here we could see the data entered is displayed in the application</p>
 
-![Dataentered](../screenshots/Dataentered.PNG)
+![Dataentered](../Screenshots/Dataentered.PNG)
 &nbsp;
 
 <p>Some data is entered and now a data entry is deleted using the delete button</p>
 
-![Dataentered](../screenshots/Details.PNG)
+![Dataentered](../Screenshots/Details.PNG)
 &nbsp;
 
 <p>The contact 'Ash' is deleted from the list</p>
 
-![Dataentered](../screenshots/Delete.PNG)
+![Dataentered](../Screenshots/Delete.PNG)

@@ -1,8 +1,9 @@
 ## Sources
 
-<p>For the present exploration3 I have built on exploration2 added various fields like login, register, validation and adding and retrieving the data of the user logged in</p>
+<p>For this exploration4 which is new to me, took lot of time to understand the things and lot of stuff in the Internet helped me to workout the things</p>
 
-Implementation of reactive forms in angular : https://angular.io/guide/reactive-forms
-Implementation of Authgaurd features : https://www.c-sharpcorner.com/article/angular-authguard/
+Introduction to ReactJS : [w3schools](https://www.w3schools.com/react/react_intro.asp)
 
-And also understood the above mentioned implementations through some youtube videos : https://youtu.be/F45ZW1oDLy4
+Project Building in React : [Youtube](https://www.youtube.com/watch?v=0riHps91AzE&t=609s&ab_channel=DipeshMalvia)
+
+Deploying the Application : [Google](https://create-react-app.dev/docs/deployment/)

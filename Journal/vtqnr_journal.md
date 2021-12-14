@@ -2,45 +2,29 @@
         Name : Vivek Vardhan Reddy Thipparthi
         pawprint : vtqnr
 ==================================================================================================
-<p>As part of the Exploration4, ReactJS is widely in talk in the Industry and can be seen in almost all the job requirements. This is my very first React application, I started to learn it from the scratch and developed a basic application called Contact Manager where we can save the contacts in the application and can delete them with delete button in the application. As it my first application in React I explored plenty of things like starting an application in React, Rendering and DOM properties in React</p>
+<p>As part of the Exploration4, ReactJS is widely in talk in the Industry and can be seen in almost all the job requirements. This is my very first React application, I started to learn it from the scratch and developed a basic application called Contact Manager where we can save the contacts in the application and can delete them with delete button in the application. As it my first application in React I explored plenty of things like starting an application in React, Rendering and DOM properties in React, Application flow in React etc</p>
 
-Link to the Application : [vivekvardhanreddy.me](https://www.vivekvardhanreddy.me/exploration3/login)
+Link to the Application : [vivekvardhanreddy.me](https://www.vivekvardhanreddy.me/exp4/)
 
-## Home Page(Login Page)
-<p>Here the user can login into his account or if a new user he can register through clicking the register button and providing valid fields</p>
+## Contact Manager
+<p>Here we could see the application Contact Manager with two input fields for name and email and a button to add them</p>
 
-![Home_Page](../screenshots/home.PNG)
+![Home_Page](../screenshots/Home.PNG)
 &nbsp;
-<p>Validations to the input fields</p>
+<p>Entering the Inputs</p>
 
-![Validation1](../screenshots/loginvalidation.PNG)
-![Validation2](../screenshots/loginvalidation2.PNG)
+![Dataentry](../screenshots/Dataentry.PNG)
 &nbsp;
+<p>Here we could see the data entered is displayed in the application</p>
 
-
-<p>Register page allows the new users to register into the application and allows to add their own fields</p>
-
-![Register_Page](../screenshots/register.PNG)
+![Dataentered](../screenshots/Dataentered.PNG)
 &nbsp;
 
+<p>Some data is entered and now a data entry is deleted using the delete button</p>
 
-<p>Validations to the input fields</p>
-
-![Register_Validation](../screenshots/registervalidation.PNG)
+![Dataentered](../screenshots/Details.PNG)
 &nbsp;
 
+<p>The contact 'Ash' is deleted from the list</p>
 
-<p>Loging in with the registered user</p>
-<p>Once logged in the user can add Items to his page that are important to his future work</p>
-
-![vtqnr_Page](../screenshots/vtqnrlogin.PNG)
-
-
-
-
-
-
-
-
-
-
+![Dataentered](../screenshots/Delete.PNG)
